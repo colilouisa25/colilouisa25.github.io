@@ -1,10 +1,15 @@
 body {
-	background: url(images/background.jpeg);
+	text-align: center;
+	background: url("images/background.jpg") alt="background photo";
+	background-size: cover;
 	color: #51FFD8;
 	font-family: Avenir;
 }
 
 h1{
 	color: #51FFD8;
+}
 
+hr{
+	width:200px;
 }
