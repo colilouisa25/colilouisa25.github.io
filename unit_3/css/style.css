@@ -15,9 +15,20 @@ p{
 	font-size: 16px;
 }
 
-}
 
 ul {
     text-align: center;
     list-style-type: none;
+}
+
+#wrap {
+    float: left;
+    position: relative;
+    left: 50%;
+}
+
+#content {
+    float: left;
+    position: relative;
+    left: -50%;
 }
