@@ -1,7 +1,8 @@
 body {
-	background-image: url(images/background.jpeg);
-	color: #f51FFD8;
+	background: url(background.jpeg);
+	color: #51FFD8;
 	font-family: Avenir;
+}
 
 h1{
 	color: #51FFD8;
