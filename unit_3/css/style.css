@@ -13,3 +13,8 @@ h1{
 hr{
 	width:200px;
 }
+
+ul {
+    text-align: center;
+    list-style-type: none;
+}
