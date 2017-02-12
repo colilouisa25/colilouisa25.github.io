@@ -11,12 +11,16 @@ body {
 	font-family: Avenir;
 }
 
-p{
-	font-size: 16px;
+p {
+	font-size: 26px;
 }
 
 
 ul {
     text-align: center;
     list-style-type: none;
+}
+
+a {
+	font-size:16px;
 }
