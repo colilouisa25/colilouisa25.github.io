@@ -8,7 +8,11 @@ body {
 
 h1{
 	color: #000;
-	font-size: bold;
+	font-size: 32px;
+}
+
+p{
+	font-size: 16px;
 }
 
 hr{
@@ -16,9 +20,7 @@ hr{
 	color: #000;
 }
 
-p{
-	font-size: 22px;
-}
+
 
 ul {
     text-align: center;
