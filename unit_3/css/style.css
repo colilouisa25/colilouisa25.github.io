@@ -2,18 +2,18 @@ body {
 	text-align: center;
 	background: url("https://static.pexels.com/photos/199750/pexels-photo-199750.jpeg");
 	background-size: cover;
-	color: #fff;
+	color: #000;
 	font-family: Avenir;
 }
 
 h1{
-	color: #fff;
+	color: #000;
 	font-size: bold;
 }
 
 hr{
 	width: 50px;
-	color: #fff;
+	color: #000;
 }
 
 p{
