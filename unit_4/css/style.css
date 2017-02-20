@@ -60,15 +60,12 @@ hr{
 	width:30px;
 }
 
-#second {
-	font-size: 1em;
-}
-
 .works {
 	width: 30em;
 	margin: 2em auto;
 	padding:0;
 }
+
 #hero {
 	background:url("https://static.pexels.com/photos/3164/sea-black-and-white-water-ocean.jpg");
 	background-size:cover;
