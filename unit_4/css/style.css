@@ -26,6 +26,7 @@ p {
 
 ul {
     text-align: center;
+    list-style-type: none;
     margin-left: 35px;
     padding:5px;
 }
