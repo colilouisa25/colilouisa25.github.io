@@ -41,6 +41,10 @@ img{
 	width: 100%
 }
 
+hr{
+	width:30px;
+}
+
 #second {
 	font-size: 1em;
 }
