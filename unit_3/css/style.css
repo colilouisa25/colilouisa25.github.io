@@ -1,11 +1,9 @@
-@import url('https://fonts.googleapis.com/css?family=EB+Garamond|Julius+Sans+One|Lora');
+@import url('https://fonts.googleapis.com/css?family=EB+Garamond');
 
 h1 {
 	color: #000;
 	font-size: 32px;
-	font-family: 'Lora', serif;
 	font-family: 'EB Garamond', serif;
-	font-family: 'Julius Sans One', sans-serif;
 }
 
 body {
