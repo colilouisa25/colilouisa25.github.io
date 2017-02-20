@@ -23,7 +23,7 @@ h1 {
 }
 h2 {
 	font-size: 36px;
-	margin-bottom: 12px;
+	margin: 24px;
 
 }
 h3{
@@ -76,5 +76,5 @@ hr{
 }
 
 #services {
-	padding: 0;
+	padding:10em 0;
 }
