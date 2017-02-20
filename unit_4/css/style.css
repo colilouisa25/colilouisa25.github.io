@@ -31,10 +31,16 @@ a {
 	image-rendering: center;
 }
 
+img{
+	width: 100%
+}
+
 #second {
 	font-size: 1em;
 }
 
 .works {
-	width:1em;
+	image-rendering: center;
+	width: 1em;
+	margin: 2em, auto;
 }
