@@ -28,6 +28,10 @@ h2 {
 h3{
 	font-size:24px;
 }
+
+h4{
+	font-size:16px;
+}
 p {
 	font-size: 1em;
 	font-family: 'Lora', serif;
@@ -69,4 +73,12 @@ hr{
 	padding:10em 0 0;
 	height:85vh;
 	background-position:center;
+}
+
+#services {
+	padding:10em 0 0;
+}
+
+#explained { 
+	padding:10em 0 0;
 }
