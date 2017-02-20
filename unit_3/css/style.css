@@ -1,4 +1,6 @@
-h1{
+@import url('https://fonts.googleapis.com/css?family=EB+Garamond|Julius+Sans+One|Lora');
+
+h1 {
 	color: #000;
 	font-size: 32px;
 }
