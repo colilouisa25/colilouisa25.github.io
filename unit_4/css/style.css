@@ -73,3 +73,7 @@ hr{
 	height:85vh;
 	background-position:center;
 }
+
+#services {
+	padding: 0;
+}
