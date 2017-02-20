@@ -31,4 +31,5 @@ ul {
 
 a {
 	font-size:1em;
+	image-rendering: center;
 }
