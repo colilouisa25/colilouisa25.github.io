@@ -85,14 +85,15 @@ a {
 }
 
 hr{
-	border-bottom: 1px solid black;
-    display: inline-block;
+	border-bottom: 2px solid black;
 }
 
 .works {
 	width: 30em;
 	margin: 2em auto;
 	padding:0;
+	border-bottom: 2px solid black;
+    display: inline-block;
 }
 
 #hero {
