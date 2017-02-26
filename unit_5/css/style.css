@@ -87,6 +87,7 @@ a {
 hr{
 	margin:1em auto;
 	width:30px;
+	text-decoration-line: none;
 }
 
 .works {
