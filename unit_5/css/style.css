@@ -26,7 +26,7 @@ article{
 	background-color: #E89C6C;
 	border: 1px black solid;
 	padding: 20px;
-	display: inline-block
+
 }
 footer{
 	background-color: #FF957E;
@@ -37,7 +37,6 @@ section {
 	background-color: #FFE2B8;
 	border: 1px black solid;
 	padding: 4em 0;
-	display: inline-block
 }
 nav a {
 	color:inherit;
