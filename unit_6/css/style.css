@@ -1,0 +1,136 @@
+@import url('https://fonts.googleapis.com/css?family=Lora|Oswald');
+* { margin:0; padding:0; box-sizing:border-box;}
+body {
+	text-align: center;
+	/* background-image: url("https://static.pexels.com/photos/3164/sea-black-and-white-water-ocean.jpg"); */
+	background-size: cover;
+	color: #000;
+	font-family: 'Lora', serif;
+}
+header{
+	background-color: #FFED74;
+	border: 1px black solid;
+	padding: 20px;
+}
+nav{
+	background-color: #E8C66A;
+	border: 1px black solid;
+	padding: 20px;
+}
+aside{
+	background-color: #FFC675;
+	border: 1px black solid;
+	padding: 20px;
+}
+article{
+	background-color: #E89C6C;
+	border: 1px black solid;
+	padding: 20px;
+
+}
+footer{
+	background-color: #FF957E;
+	border: 1px black solid;
+	padding: 20px;
+}
+section {	
+	background-color: #FFE2B8;
+	border: 1px black solid;
+	padding: 4em 0;
+}
+nav a {
+	color:inherit;
+	display:inline-block;
+	padding:1em;
+	text-decoration:none;
+}
+h1 {
+	color: #000;
+	font-size: 56px;
+	font-family: 'Oswald', sans-serif;
+}
+h2 {
+	font-size: 36px;
+	margin: 24px;
+	display: inline-block
+
+}
+h3{
+	font-size:24px;
+}
+
+h4{
+	font-size:24px;
+	font-weight: bold;
+}
+p {
+	font-size: 1em;
+	font-family: 'Lora', serif;
+	line-height: 1.5em;
+}
+
+ul {
+    text-align: center;
+    list-style-type: none;
+    /* margin-left: 35px; */
+}
+
+a {
+	font-size:1em;
+	image-rendering: center;
+}
+
+.works img{
+	width: 100%
+}
+
+hr{
+	border: 1px solid black;
+}
+
+.works {
+	width: 30em;
+	margin: 2em auto;
+	padding:0;
+}
+
+#two_column {
+	background-color: #FFB7CF;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#left {
+	background-color: #E582A2;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#right {
+	background-color: #E55B88;
+	border: 1px black solid;
+	padding: 20px;
+}
+#hero {
+	background:url("https://static.pexels.com/photos/3164/sea-black-and-white-water-ocean.jpg");
+	background-size:cover;
+	padding:10em 0 0;
+	height:85vh;
+	background-position:center;
+}
+
+.skills {
+	width: 30em;
+	margin: 1em auto;
+	padding:10px;
+}
+
+.contact{
+	text-align: center;
+	margin: 1em auto;
+
+}
+.footer {
+	text-align: center;
+	padding: 1em 0;
+}
