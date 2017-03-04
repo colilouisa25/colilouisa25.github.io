@@ -17,11 +17,7 @@ nav{
 	border: 1px black solid;
 	padding: 20px;
 }
-aside{
-	background-color: #FFC675;
-	border: 1px black solid;
-	padding: 20px;
-}
+
 article{
 	background-color: #E89C6C;
 	border: 1px black solid;
@@ -113,17 +109,10 @@ hr{
 	border: 1px black solid;
 	padding: 20px;
 	float: right;
-	width: 62%;
+	width:62%;
 }
 
-.clearfix:after {
-    visibility: hidden;
-    display: block;
-    font-size: 0;
-    content: " ";
-    clear: both;
-    height: 0;
-}
+
 
 #hero {
 	background:url("https://static.pexels.com/photos/3164/sea-black-and-white-water-ocean.jpg");
