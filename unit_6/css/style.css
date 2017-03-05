@@ -85,7 +85,7 @@ a {
 
 div{
   	width: 40em;
-  	padding: 10em;
+  	padding: 10px;
   	display: inline-block;
  }
 
@@ -109,6 +109,11 @@ div{
 	padding:10em 0 0;
 	height:85vh;
 	background-position:center;
+}
+
+.skills {
+	margin: 1em auto;
+	padding:10px;
 }
 
 .contact{
