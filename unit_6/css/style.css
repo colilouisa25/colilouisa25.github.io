@@ -89,10 +89,11 @@ div{
   	display: inline-block;
  }
 
-.logo{
-	float:left;
+section {
+	padding: 4em 0;
 }
-.works {
+
+.works{
 	width: 15em;
 	margin: 2em auto;
 	padding:0;
