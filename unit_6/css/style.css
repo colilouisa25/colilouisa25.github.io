@@ -84,12 +84,13 @@ a {
 */
 
 div{
-  	width: 40em;
   	padding: 10px;
   	display: inline-block;
  }
 
-
+.logo{
+	float:left;
+}
 .works {
 	width: 15em;
 	margin: 2em auto;
