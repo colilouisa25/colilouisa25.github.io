@@ -75,9 +75,7 @@ a {
 }
 
 .works img{
-	display: block;
-	margin: 0 auto;
-  	width: 480px;
+	width: 100%
 }
 
 /*hr{
@@ -95,16 +93,7 @@ div{
 	width: 30em;
 	margin: 2em auto;
 	padding:0;
-	position: absolute;
-
 }
-
-.column {
-	width: 30em;
-	margin: 2em auto;
-	padding:0;
-}
-
 
 #hero {
 	background:url("https://static.pexels.com/photos/3164/sea-black-and-white-water-ocean.jpg");
