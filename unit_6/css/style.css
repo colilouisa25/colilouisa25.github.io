@@ -83,6 +83,14 @@ a {
 	border: 1px solid black;
 }
 */
+
+div{
+	font-size: 1.2em;
+  	width: 46%;
+  	padding: 2%;
+  	display: inline-block;
+ }
+ 
 .works {
 	width: 30em;
 	margin: 2em auto;
