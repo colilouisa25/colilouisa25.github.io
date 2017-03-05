@@ -14,7 +14,7 @@ header{
 nav{
 	background-color: none;
 	padding: 20px;
-	float: left;
+	float: none;
   	width: 50%;
   	height: 6em;
   	outline: 3px solid #222;
@@ -23,6 +23,7 @@ nav{
   	color: #000;
   	background: #fff;
 }
+
 
 article{
 	background-color: none;
