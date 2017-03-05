@@ -99,10 +99,9 @@ div{
  }
 
 .logo{
-	float:left;
-	width: 30em
-	margin: 2em auto
-	padding:2m;
+	width: 10em;
+	margin: 2em auto;
+	padding:2em;
 }
 .works{
 	width: 30em;
