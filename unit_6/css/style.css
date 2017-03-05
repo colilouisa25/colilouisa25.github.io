@@ -114,6 +114,7 @@ div{
 .skills {
 	margin: 1em auto;
 	padding:10px;
+	display: inline-block;
 }
 
 .contact{
