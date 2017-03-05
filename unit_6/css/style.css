@@ -78,6 +78,11 @@ a {
 	image-rendering: center;
 }
 
+
+.logo img{
+ 	width: 100%;
+}
+
 .works img{
 	width:100%;
 }
@@ -86,12 +91,6 @@ a {
 	border: 1px solid black;
 }
 */
-.logo{
-	float:left;
-}
-.logo img{
- width: 10px;
-}
 
 div{
   	width: 40em;
@@ -99,6 +98,12 @@ div{
   	display: inline-block;
  }
 
+.logo{
+	float:left;
+	width: 30em
+	margin: 2em auto
+	padding:2m;
+}
 .works{
 	width: 30em;
 	margin: 2em auto;
