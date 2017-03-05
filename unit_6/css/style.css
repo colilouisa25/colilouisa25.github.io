@@ -16,6 +16,10 @@ nav{
 	padding: 20px;
 }
 
+nav a:hover {
+	background-color: #338833;
+}
+
 article{
 	background-color: none;
 	border: 1px black solid;
@@ -80,11 +84,19 @@ hr{
 	border: 1px solid black;
 }
 
-.works {
+/*.works {
 	width: 30em;
 	margin: 2em auto;
 	padding:0;
 }
+*/
+.column {
+	width: 260px;
+	height: 300px;
+	padding: 20px;
+	margin: 0;
+}
+
 
 #hero {
 	background:url("https://static.pexels.com/photos/3164/sea-black-and-white-water-ocean.jpg");
