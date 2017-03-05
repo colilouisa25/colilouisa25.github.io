@@ -100,9 +100,7 @@ div{
 }
 
 #hero {
-	background-image: url(http://i1339.photobucket.com/albums/o703/nicole_chen1/hero_zpscfz5yl5a.jpg);
-	background-size:cover;
-	padding:10em 0 0;
+	background:url("http://i1339.photobucket.com/albums/o703/nicole_chen1/hero_zpscfz5yl5a.jpg")
 	height:85vh;
 	background-position:center;
 }
