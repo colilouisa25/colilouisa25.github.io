@@ -88,7 +88,9 @@ a {
 */
 .logo{
 	float:left;
+	height:60vh;
 }
+
 div{
   	width: 40em;
   	padding: 10px;
