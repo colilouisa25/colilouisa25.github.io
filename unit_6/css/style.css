@@ -84,9 +84,8 @@ a {
 */
 
 div{
-	font-size: 1.2em;
-  	width: 30%;
-  	padding: 5%;
+  	width: 30em;
+  	padding: 10em;
   	display: inline-block;
  }
 
