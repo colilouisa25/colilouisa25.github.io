@@ -78,6 +78,9 @@ a {
 	width: 50%
 }
 
+hr{
+	border: 1px solid black;
+}
 
 /*.works {
 	width: 30em;
