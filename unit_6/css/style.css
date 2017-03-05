@@ -81,13 +81,14 @@ a {
 /*hr{
 	border: 1px solid black;
 }
-
+*/
 .works {
 	width: 30em;
 	margin: 2em auto;
 	padding:0;
+	float:left;
 }
-*/
+
 .column {
 	width: 30em;
 	margin: 2em auto;
