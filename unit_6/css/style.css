@@ -80,7 +80,7 @@ a {
 
 
 .logo img{
- 	float:left;
+ 	max-width: 20px;
 }
 
 .works img{
