@@ -93,7 +93,7 @@ div{
   	display: inline-block;
  }
 
-.logo{
+#logo{
 	width: 10em;
 	float: left;
 }
