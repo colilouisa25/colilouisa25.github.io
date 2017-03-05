@@ -7,6 +7,10 @@ body {
 	color: #000;
 	font-family: 'Lora', serif;
 }
+section {
+	padding: 4em 0;
+}
+
 header{
 	background-color: none;
 	padding: 20px;
@@ -89,12 +93,8 @@ div{
   	display: inline-block;
  }
 
-section {
-	padding: 4em 0;
-}
-
 .works{
-	width: 15em;
+	width: 30em;
 	margin: 2em auto;
 	padding:0;
 }
