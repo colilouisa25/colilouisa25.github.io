@@ -14,6 +14,14 @@ header{
 nav{
 	background-color: none;
 	padding: 20px;
+	float: left;
+  	width: 50%;
+  	height: 6em;
+  	outline: 3px solid #222;
+  	text-align: center;
+  	line-height: 6em;
+  	color: #000;
+  	background: #fff;
 }
 
 article{
@@ -28,7 +36,6 @@ footer{
 }
 section {	
 	background-color: none;
-	border: 1px black solid;
 	padding: 1em 0;
 }
 nav a {
