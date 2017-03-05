@@ -22,6 +22,10 @@ nav a:hover {
 
 article{
 	background-color: none;
+	width: 500px;
+  	margin: 10px auto;
+  	border: 2px solid black;
+  	padding: 10px;
 }
 
 footer{
