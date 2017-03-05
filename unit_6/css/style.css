@@ -79,10 +79,10 @@ a {
 }
 
 
-.logo img{
- 	 position: absolute; 
- 	height: 100%; 
- 	width: 100%; 
+.logo svg{
+ 	position: absolute; 
+ 	height: 10%; 
+ 	width: 10%; 
  	left: 0; 
  	top: 0;
 }
