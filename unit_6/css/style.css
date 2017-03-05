@@ -75,7 +75,9 @@ a {
 }
 
 .works img{
-	width: 50%
+	display: block;
+	margin: 0 auto;
+  	width: 480px;
 }
 
 /*hr{
