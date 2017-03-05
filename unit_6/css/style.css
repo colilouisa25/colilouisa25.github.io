@@ -86,7 +86,7 @@ a {
 div{
   	width: 40em;
   	padding: 10em;
-  	
+  	display: inline-block;
  }
 
 .works {
@@ -112,10 +112,9 @@ div{
 }
 
 .skills {
-	width: 20%;
+	width: 30%;
 	margin: 1em auto;
 	padding:10px;
-	display: inline-block;
 }
 
 .contact{
