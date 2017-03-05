@@ -86,7 +86,9 @@ a {
 	border: 1px solid black;
 }
 */
-
+.logo{
+	float:left;
+}
 div{
   	width: 40em;
   	padding: 10px;
