@@ -80,7 +80,7 @@ a {
 
 
 .logo img{
- 	width: 100%;
+ 	float:left;
 }
 
 .works img{
@@ -99,7 +99,7 @@ div{
  }
 
 .logo{
-	width: 10em;
+	width: 1em;
 	margin: 2em auto;
 	padding:2em;
 }
