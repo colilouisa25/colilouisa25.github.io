@@ -84,6 +84,7 @@ a {
 */
 
 div{
+  	width: 40em;
   	padding: 10px;
   	display: inline-block;
  }
