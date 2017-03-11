@@ -17,6 +17,7 @@ nav{
 	margin-top: 1em;
 	text-align: left;
 	float: right;
+	font-family: 'Oswald', sans-serif;
 }
 nav a:hover {
 	background-color:rgba(0,0,0,.10);
