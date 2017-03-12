@@ -59,6 +59,7 @@ h4{
 	font-size:12px;
 	font-family : 'Arial', sans-serif;
 	color: #fff;
+
 }
 
 ul {
@@ -115,6 +116,7 @@ a {
 .footer {
 	text-align: center;
 	padding: 1em 0;
+	background-color: #5850C1;
 }
 .wrapper {
 	max-width:75em;
