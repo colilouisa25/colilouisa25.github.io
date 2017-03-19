@@ -166,4 +166,25 @@ footer{
 		padding: .5em;
 }
 
+@media only screen and (max-width: 1000px) {
+	body {
+		font-size: 1em;
+	}
+
+	.wrapper {
+		width: 800px;
+	}
+
+	nav a {
+		float: right;
+		width: auto;
+		padding: 1em;
+	}
+
+	#logo{
+		float: left;
+		width: 5em;
+		padding: .5em;
+}
+
 }
