@@ -166,25 +166,30 @@ footer{
 		padding: .5em;
 }
 
-@media only screen and (max-width: 400px) {
-	body {
-		font-size: .5em;
+@media only screen and (max-width: 660px) {
+	#mobile {
+		display: block;
 	}
-
-	.wrapper {
-		width: 300px;
-	}
-
+	
 	nav a {
-		float: right;
+		float: none;
+		width: auto;
+		padding: .25em 0;
+		display: none;
+	}
+
+	nav:hover a {
+		display: block;
+	}
+	
+	header {
+		padding: 0;
+		padding-bottom: 1em;
+	}
+
+	#wrapper {
 		width: auto;
 		padding: 1em;
 	}
-
-	#logo{
-		float: left;
-		width: 5em;
-		padding: .5em;
-}
 
 }
