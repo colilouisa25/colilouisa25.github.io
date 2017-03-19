@@ -175,7 +175,7 @@ footer{
 		float: none;
 		width: auto;
 		padding: .25em 0;
-		display: none;
+	
 	}
 
 	nav:hover a {
@@ -188,7 +188,7 @@ footer{
 	}
 
 	#wrapper {
-		width: auto;
+		width: 400px;
 		padding: 1em;
 	}
 	h2, h3, h4{
