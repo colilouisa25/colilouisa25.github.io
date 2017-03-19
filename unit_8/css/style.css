@@ -138,12 +138,11 @@ footer{
 	body {
 		font-size: 1em;
 	}
-	
+
 	nav a {
 		float: none;
 		width: auto;
 		padding: .25em 0;
-		display: none;
 	}
 
 }
