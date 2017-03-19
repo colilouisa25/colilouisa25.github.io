@@ -136,7 +136,7 @@ footer{
 		font-size: 24px;
 	}
 	#wrapper {
-		width: 1020px;
+		width: 75em;
 	}
 	#logo{
 		width: 5em;
@@ -151,7 +151,7 @@ footer{
 	}
 
 	#wrapper {
-		width: 1037px;
+		width: 50em;
 	}
 
 	nav a {
@@ -208,7 +208,7 @@ footer{
 	}
 
 	#wrapper {
-		width: auto;
+		width: 25em;
 		padding: 1em;
 	}
 	#hero{
