@@ -149,9 +149,8 @@ footer{
 	margin:auto;
 }
 	#logo{
-	width: 5em;
+	width: auto;
 	float: left;
-	margin: auto;
 }
 
 }
