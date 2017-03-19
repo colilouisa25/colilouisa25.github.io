@@ -144,5 +144,10 @@ footer{
 		width: auto;
 		padding: 1em;
 	}
+	
+	#logo{
+	width: 5em;
+	float: left;
+}
 
 }
