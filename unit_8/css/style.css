@@ -1,0 +1,135 @@
+@import url('https://fonts.googleapis.com/css?family=Lora|Oswald');
+* { margin:0; padding:0; box-sizing:border-box;}
+body {
+	text-align: center;
+	/* background-image: url("https://static.pexels.com/photos/3164/sea-black-and-white-water-ocean.jpg"); */
+	background-size: cover;
+	color: rgba(0,0,0,.85);
+	font-family: 'Lora', serif;
+	font-size:16px;
+	line-height:1.5;
+}
+section {
+	padding: 4em 0;
+}
+nav{
+	background-color: none;
+	margin-top: 1em;
+	text-align: left;
+	float: right;
+	font-family: 'Oswald', sans-serif;
+}
+nav a:hover {
+	background-color:rgba(0,0,0,.10);
+}
+
+article{
+	background-color: none;
+
+}
+
+footer{
+	background-color: none;
+	padding: .8em;
+}
+section {
+	padding: 1em 0;
+}
+nav a {
+	color:inherit;
+	display:inline-block;
+	padding:1em;
+	text-decoration:none;
+}
+h1 {
+	color: #fff;
+	font-size: 3.5em;
+	font-family: 'Oswald', sans-serif;
+}
+h2 {
+	font-size: 2.25em;
+	margin: 5%;
+
+}
+h3{
+	font-size:1.5em;
+}
+
+h4{
+	font-size:.8em;
+	font-family : 'Lora', sans-serif;
+	color: #fff;
+	font-weight: normal;
+
+}
+
+ul {
+    text-align: center;
+    list-style-type: none;
+    /* margin-left: 35px; */
+}
+
+a {
+	font-size:1em;
+	image-rendering: center;
+}
+
+footer{
+	background-color: #5850C1;
+}
+/*hr{
+	border: 1px solid black;
+}
+*/
+#logo{
+	width: 5em;
+	float: left;
+}
+.works{
+	width: 33.33%;
+	padding: 2em .5em;
+	float: left;
+	color: inherit;
+	text-decoration: none;
+}
+#visual .works {
+	width:50%;
+}
+.works img{
+	width:100%;
+}
+#hero {
+	background-color: #5850C1;
+	background-size:cover;
+	padding:10em 0 0;
+	height:60vh;
+	background-position:center;
+}
+
+.skills {
+	margin: 1em auto;
+	padding:0.625em;
+	display: inline-block;
+
+}
+
+.contact{
+	text-align: center;
+	margin: 1em auto;
+
+}
+.footer {
+	text-align: center;
+	padding: 1em 0;
+}
+.wrapper {
+	max-width:75em;
+	margin:auto;
+}
+.clearfix:after {
+	clear:both;
+	display:block;
+	visibility:hidden;
+	height:0;
+	content:"";
+}
