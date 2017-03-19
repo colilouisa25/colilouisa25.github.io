@@ -144,7 +144,6 @@ footer{
 		width: 5em;
 		float: left;
 		margin: .5em;
-		padding: 5em 0em;
 	}
 }
 
@@ -218,6 +217,7 @@ footer{
 	}
 	#hero{
 		height: 50%;
+		padding: 5em 0em;
 	}
 	h1{
 		font-size:1.3em;
