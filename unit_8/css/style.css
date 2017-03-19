@@ -134,11 +134,16 @@ footer{
 	content:"";
 }
 
-@media only screen and (max-width: 1130px) {
-	footer p {
+@media only screen and (max-width: 1216px) {
+	body {
+		font-size: 1em;
+	}
+	
+	nav a {
 		float: none;
+		width: auto;
+		padding: .25em 0;
+		display: none;
 	}
-	footer {
-		text-align: center;
-	}
+
 }
