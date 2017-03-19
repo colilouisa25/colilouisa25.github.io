@@ -134,7 +134,7 @@ footer{
 	content:"";
 }
 
-@media only screen and (max-width: 1216px) {
+@media only screen and (max-width: 1220px) {
 	body {
 		font-size: 1em;
 	}
@@ -144,13 +144,13 @@ footer{
 		width: auto;
 		padding: 1em;
 	}
-	.wrapper {
-	max-width:75em;
-	margin:auto;
+	#wrapper {
+		width: 1200px;
 }
 	#logo{
-	width: auto;
-	float: left;
+		width: 5em;
+		float: left;
+		margin: auto;
 }
 
 }
