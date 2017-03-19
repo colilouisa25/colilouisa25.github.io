@@ -79,6 +79,7 @@ footer{
 #logo{
 	width: 5em;
 	float: left;
+	margin-left: 5px;
 }
 .works{
 	width: 33.33%;
@@ -169,7 +170,7 @@ footer{
 		float: left;
 		width: 5em;
 		padding: .5em;
-}
+	}
 	h1{
 		font-size:1.7em;
 	}
