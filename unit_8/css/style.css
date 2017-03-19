@@ -191,5 +191,10 @@ footer{
 		width: auto;
 		padding: 1em;
 	}
-
+	h2, h3, h4{
+		font-size: .5em;
+	}
+	.works{
+		width: 50%;
+	}
 }
