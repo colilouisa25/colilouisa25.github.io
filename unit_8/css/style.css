@@ -249,4 +249,10 @@ footer{
 	image-rendering: center;
 	}
 }
-
+.clearfix:after {
+	clear:both;
+	display:block;
+	visibility:hidden;
+	height:0;
+	content:"";
+}
