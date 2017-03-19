@@ -137,6 +137,7 @@ footer{
 	}
 	#wrapper {
 		width: 75em;
+		margin:auto;
 	}
 	#logo{
 		width: 5em;
@@ -152,6 +153,7 @@ footer{
 
 	#wrapper {
 		width: 50em;
+		margin:auto;
 	}
 
 	nav a {
@@ -210,6 +212,7 @@ footer{
 	#wrapper {
 		width: 25em;
 		padding: 1em;
+		margin:auto;
 	}
 	#hero{
 		height: 50%;
@@ -249,10 +252,4 @@ footer{
 	image-rendering: center;
 	}
 }
-.clearfix:after {
-	clear:both;
-	display:block;
-	visibility:hidden;
-	height:0;
-	content:"";
-}
+
