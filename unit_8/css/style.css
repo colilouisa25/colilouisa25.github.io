@@ -244,5 +244,9 @@ footer{
 		float: none;
 		position:center;
 	}
+	a {
+	font-size:.5em;
+	image-rendering: center;
+	}
 }
 
