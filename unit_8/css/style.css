@@ -2,7 +2,6 @@
 * { margin:0; padding:0; box-sizing:border-box;}
 body {
 	text-align: center;
-	/* background-image: url("https://static.pexels.com/photos/3164/sea-black-and-white-water-ocean.jpg"); */
 	background-size: cover;
 	color: rgba(0,0,0,.85);
 	font-family: 'Lora', serif;
@@ -120,9 +119,10 @@ footer{
 }
 
 #wrapper {
-	width: 85%	;
+	width: 85%;
 	margin-left: auto;
 	margin-right: auto;
+
 }
 .clearfix:after {
 	clear:both;
