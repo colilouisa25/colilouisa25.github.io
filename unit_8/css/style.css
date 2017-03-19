@@ -208,7 +208,7 @@ footer{
 	}
 
 	#wrapper {
-		width: 535px;
+		width: auto;
 		padding: 1em;
 	}
 	#hero{
