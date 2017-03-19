@@ -175,11 +175,8 @@ footer{
 		float: none;
 		width: auto;
 		padding: .25em 0;
+		margin: 0 1em 1em;
 	
-	}
-
-	nav:hover a {
-		display: block;
 	}
 	
 	header {
@@ -195,7 +192,8 @@ footer{
 		font-size: 1em;
 	}
 	.works{
-		width: 100%;
+		width: 80%;
+		padding: .8em;
 		float: none;
 	}
 }
