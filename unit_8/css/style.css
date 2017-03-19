@@ -140,9 +140,9 @@ footer{
 	}
 
 	nav a {
-		float: none;
+		float: right;
 		width: auto;
-		padding: 1em 0;
+		padding: 1em;
 	}
 
 }
