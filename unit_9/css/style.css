@@ -1,0 +1,257 @@
+@import url('https://fonts.googleapis.com/css?family=Lora|Oswald');
+* { margin:0; padding:0; box-sizing:border-box;}
+body {
+	text-align: center;
+	background-size: cover;
+	color: rgba(0,0,0,.85);
+	font-family: 'Lora', serif;
+	font-size:16px;
+	line-height:1.5;
+}
+section {
+	padding: 4em 0;
+}
+nav{
+	background-color: none;
+	margin-top: 1em;
+	text-align: left;
+	float: right;
+	font-family: 'Oswald', sans-serif;
+}
+nav a:hover {
+	background-color:rgba(0,0,0,.10);
+}
+
+article{
+	background-color: none;
+
+}
+
+footer{
+	background-color: none;
+	padding: .8em;
+}
+section {
+	padding: 1em 0;
+}
+nav a {
+	color:inherit;
+	display:inline-block;
+	padding:1em;
+	text-decoration:none;
+}
+h1 {
+	color: #fff;
+	font-size: 3.5em;
+	font-family: 'Oswald', sans-serif;
+}
+h2 {
+	font-size: 2.25em;
+	margin: 1em;
+	
+
+}
+h3{
+	font-size:1.5em;
+	
+}
+
+h4{
+	font-size:1em;
+	font-family : 'Lora', sans-serif;
+	color: #fff;
+	font-weight: normal;
+
+}
+
+a {
+	font-size:1em;
+	image-rendering: center;
+}
+
+footer{
+	background-color: #5850C1;
+}
+/*hr{
+	border: 1px solid black;
+}
+*/
+#logo{
+	width: 5em;
+	float: left;
+	margin-left: .5em;
+}
+.works{
+	width: 33.33%;
+	padding: 2em .5em;
+	float: left;
+	color: inherit;
+	text-decoration: none;
+}
+#visual .works {
+	width:50%;
+}
+.works img{
+	width:100%;
+}
+#hero {
+	background-color: #5850C1;
+	background-size:cover;
+	padding:10em 0 0;
+	height:60vh;
+	background-position:center;
+}
+
+.skills {
+	margin: 1em auto;
+	padding:0.625em;
+	display: inline-block;
+
+}
+
+.contact{
+	text-align: center;
+	margin: 1em auto;
+
+}
+.footer {
+	text-align: center;
+	padding: 1em 0;
+}
+
+#wrapper {
+	width: 85%
+	margin:auto;
+
+}
+.clearfix:after {
+	clear:both;
+	display:block;
+	visibility:hidden;
+	height:0;
+	content:"";
+}
+
+@media only screen and (min-width: 1800px) {
+	body {
+		font-size: 24px;
+	}
+	#wrapper {
+		width: 85%;
+		margin:auto;
+	}
+	#logo{
+		width: 5em;
+		float: left;
+		margin: .5em;
+	}
+}
+
+@media only screen and (max-width: 1220px) {
+	body {
+		font-size: 18px;
+	}
+
+	#wrapper {
+		width: 50em;
+		margin:auto;
+	}
+
+	nav a {
+		float: right;
+		width: auto;
+		padding: 1em;
+	}
+	#works{
+		padding: 2em .5em;
+	}
+
+	#logo{
+		float: left;
+		width: 5em;e
+		margin: .5em;
+	}
+	h1{
+		font-size:1.7em;
+	}
+	h2{
+		font-size: 1.2em;
+	}
+	
+	h3{
+		font-size: .9em;
+		text-align: center;
+	}
+	
+	h4{
+		font-size:.8em;
+	}
+
+	p{
+		font-size:.7em;
+	}
+
+
+@media only screen and (max-width: 660px) {
+	#mobile {
+		display: block;
+	}
+	
+	nav a {
+		float: right;
+		width: auto;
+		padding: 1em;
+		font-size: .8em;
+	}
+
+	
+	header {
+		padding: 0;
+		padding-bottom: 1em;
+	}
+
+	#wrapper {
+		width: 25em;
+		padding: 1em;
+		margin:auto;
+	}
+	#hero{
+		height: 50%;
+		padding: 5em;
+	}
+	h1{
+		font-size:1.3em;
+	}
+
+	h2{
+		font-size:1em;
+	}
+	
+
+	h3{
+		font-size: 1em;
+		text-align: center;
+	}
+	h4{
+		font-size:.9em;
+	}
+
+	p{
+		font-size: 1em;
+	}
+	#works{
+		padding: 2em .5em;
+	}
+
+	.works{
+		width: 80%;
+		padding: .8em;
+		float: none;
+		position:center;
+	}
+	a {
+	font-size:.8em;
+	image-rendering: center;
+	}
+}
+
